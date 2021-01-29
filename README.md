@@ -1,2 +1,2 @@
 # raphaelschaad.github.io
-gh-pages repo for my personal account
+GitHub Pages repo for my personal account
